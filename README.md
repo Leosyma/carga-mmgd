@@ -1,10 +1,5 @@
 # Distributed Generation Data Loader
 
-## 🧾 Summary
-
-This project automates the processing and insertion of Distributed Generation (GD) datasets provided by ANEEL (Brazilian Electricity Regulatory Agency) into an Oracle database. It processes structured data on energy generation plants, subsidies, tariffs, capacity factors, and irradiation indexes, enabling structured, query-ready storage for business intelligence and regulatory applications.
-
----
 
 ## 📌 Project Overview
 
